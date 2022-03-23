@@ -24,7 +24,7 @@ The app should include the following features:
 • User can search for a project using date (bonus)
 Similar Projects to get some inspiration :)
 https://www.gofundme.com https://www.kickstarter.com https://www.crowdfunding.com"""
-from register import register
+from home import register
 from login import login
 
 def mainfunc():
